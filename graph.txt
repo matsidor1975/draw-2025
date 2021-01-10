@@ -2128,3 +2128,4 @@
 2021-01-09 refactor code [3]
 2021-01-09 refactor code [4]
 2021-01-09 minor changes [5]
+2021-01-10 optimize function [1]
