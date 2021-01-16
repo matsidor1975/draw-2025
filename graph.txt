@@ -2184,3 +2184,4 @@
 2021-01-16 fix bug [8]
 2021-01-16 add tests [9]
 2021-01-16 minor changes [10]
+2021-01-16 optimize function [11]
