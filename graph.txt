@@ -2193,3 +2193,4 @@
 2021-01-16 improve docs [17]
 2021-01-16 optimize function [18]
 2021-01-17 optimize function [1]
+2021-01-17 refactor code [2]
