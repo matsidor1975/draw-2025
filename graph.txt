@@ -2211,3 +2211,4 @@
 2021-01-17 add tests [17]
 2021-01-17 improve docs [18]
 2021-01-19 update feature [1]
+2021-01-19 refactor code [2]
