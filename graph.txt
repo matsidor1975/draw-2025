@@ -2240,3 +2240,4 @@
 2021-01-30 add tests [5]
 2021-02-01 refactor code [1]
 2021-02-01 optimize function [2]
+2021-02-01 fix bug [3]
