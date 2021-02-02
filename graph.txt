@@ -1,3 +1,4 @@
 2021-02-02 fix bug [1]
 2021-02-02 add tests [2]
 2021-02-02 improve docs [3]
+2021-02-02 add tests [4]
