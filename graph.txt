@@ -9,3 +9,4 @@
 2021-02-02 update feature [9]
 2021-02-02 fix bug [10]
 2021-02-02 minor changes [11]
+2021-02-02 improve docs [12]
