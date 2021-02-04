@@ -48,3 +48,4 @@
 2021-02-04 improve docs [8]
 2021-02-04 improve docs [9]
 2021-02-04 minor changes [10]
+2021-02-04 optimize function [11]
