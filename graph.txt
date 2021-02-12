@@ -61,3 +61,4 @@
 2021-02-12 fix bug [4]
 2021-02-12 improve docs [5]
 2021-02-12 refactor code [6]
+2021-02-12 add tests [7]
