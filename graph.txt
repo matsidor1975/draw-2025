@@ -2311,3 +2311,4 @@
 2021-02-12 refactor code [15]
 2021-02-14 improve docs [1]
 2021-02-14 optimize function [2]
+2021-02-14 fix bug [3]
