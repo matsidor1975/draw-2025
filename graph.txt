@@ -2328,3 +2328,4 @@
 2021-02-16 minor changes [4]
 2021-02-16 improve docs [5]
 2021-02-16 fix bug [6]
+2021-02-16 optimize function [7]
