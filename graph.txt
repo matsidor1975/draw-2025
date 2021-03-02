@@ -120,3 +120,4 @@
 2021-03-02 update feature [3]
 2021-03-02 add tests [4]
 2021-03-02 improve docs [5]
+2021-03-02 refactor code [6]
