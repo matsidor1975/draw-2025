@@ -160,3 +160,4 @@
 2021-03-16 fix bug [18]
 2021-03-16 minor changes [19]
 2021-03-17 minor changes [1]
+2021-03-17 improve docs [2]
