@@ -172,3 +172,4 @@
 2021-03-18 optimize function [4]
 2021-03-18 add tests [5]
 2021-03-18 optimize function [6]
+2021-03-18 fix bug [7]
