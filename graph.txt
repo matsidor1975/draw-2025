@@ -2471,3 +2471,4 @@
 2021-03-22 optimize function [3]
 2021-03-22 fix bug [4]
 2021-03-22 optimize function [5]
+2021-03-22 refactor code [6]
