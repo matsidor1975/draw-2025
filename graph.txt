@@ -2647,3 +2647,4 @@
 2021-04-24 refactor code [17]
 2021-04-24 add tests [18]
 2021-04-24 fix bug [19]
+2021-04-24 improve docs [20]
