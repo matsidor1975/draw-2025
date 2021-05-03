@@ -313,3 +313,4 @@
 2021-04-30 refactor code [15]
 2021-04-30 add tests [16]
 2021-05-03 refactor code [1]
+2021-05-03 improve docs [2]
