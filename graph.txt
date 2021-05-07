@@ -345,3 +345,4 @@
 2021-05-07 minor changes [4]
 2021-05-07 improve docs [5]
 2021-05-07 improve docs [6]
+2021-05-07 fix bug [7]
