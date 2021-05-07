@@ -2679,3 +2679,4 @@
 2021-05-04 improve docs [16]
 2021-05-07 fix bug [1]
 2021-05-07 add tests [2]
+2021-05-07 optimize function [3]
