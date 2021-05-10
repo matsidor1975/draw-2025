@@ -359,3 +359,4 @@
 2021-05-07 update feature [18]
 2021-05-07 improve docs [19]
 2021-05-10 add tests [1]
+2021-05-10 fix bug [2]
