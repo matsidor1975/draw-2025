@@ -367,3 +367,4 @@
 2021-05-10 optimize function [7]
 2021-05-12 minor changes [1]
 2021-05-12 add tests [2]
+2021-05-12 improve docs [3]
