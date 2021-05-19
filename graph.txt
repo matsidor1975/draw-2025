@@ -400,3 +400,4 @@
 2021-05-19 improve docs [4]
 2021-05-19 optimize function [5]
 2021-05-19 add tests [6]
+2021-05-19 fix bug [7]
