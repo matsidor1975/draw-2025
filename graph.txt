@@ -395,3 +395,4 @@
 2021-05-17 add tests [11]
 2021-05-17 update feature [12]
 2021-05-19 refactor code [1]
+2021-05-19 optimize function [2]
