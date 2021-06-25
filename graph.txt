@@ -549,3 +549,4 @@
 2021-06-23 optimize function [14]
 2021-06-25 minor changes [1]
 2021-06-25 minor changes [2]
+2021-06-25 improve docs [3]
