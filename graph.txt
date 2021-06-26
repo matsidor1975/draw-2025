@@ -2922,3 +2922,4 @@
 2021-06-26 add tests [2]
 2021-06-26 minor changes [3]
 2021-06-26 minor changes [4]
+2021-06-26 optimize function [5]
