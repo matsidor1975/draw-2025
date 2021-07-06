@@ -2960,3 +2960,4 @@
 2021-07-05 update feature [11]
 2021-07-06 improve docs [1]
 2021-07-06 refactor code [2]
+2021-07-06 fix bug [3]
