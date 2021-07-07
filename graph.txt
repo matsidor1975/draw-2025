@@ -614,3 +614,4 @@
 2021-07-07 fix bug [6]
 2021-07-07 optimize function [7]
 2021-07-07 improve docs [8]
+2021-07-07 add tests [9]
