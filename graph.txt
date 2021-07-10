@@ -2970,3 +2970,4 @@
 2021-07-06 fix bug [10]
 2021-07-06 add tests [11]
 2021-07-10 refactor code [1]
+2021-07-10 improve docs [2]
