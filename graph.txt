@@ -642,3 +642,4 @@
 2021-07-12 update feature [13]
 2021-07-12 add tests [14]
 2021-07-14 improve docs [1]
+2021-07-14 fix bug [2]
