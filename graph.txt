@@ -671,3 +671,4 @@
 2021-07-15 add tests [10]
 2021-07-15 improve docs [11]
 2021-07-15 add tests [12]
+2021-07-16 optimize function [1]
