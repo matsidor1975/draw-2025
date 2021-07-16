@@ -687,3 +687,4 @@
 2021-07-16 fix bug [14]
 2021-07-16 add tests [15]
 2021-07-16 minor changes [16]
+2021-07-16 optimize function [17]
