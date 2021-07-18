@@ -3023,3 +3023,4 @@
 2021-07-18 improve docs [12]
 2021-07-18 optimize function [13]
 2021-07-18 add tests [14]
+2021-07-18 refactor code [15]
