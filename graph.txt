@@ -3079,3 +3079,4 @@
 2021-08-03 refactor code [15]
 2021-08-03 add tests [16]
 2021-08-03 improve docs [17]
+2021-08-03 fix bug [18]
