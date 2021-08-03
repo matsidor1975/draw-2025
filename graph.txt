@@ -3066,3 +3066,4 @@
 2021-08-03 fix bug [2]
 2021-08-03 fix bug [3]
 2021-08-03 add tests [4]
+2021-08-03 optimize function [5]
