@@ -3108,3 +3108,4 @@
 2021-08-10 fix bug [12]
 2021-08-10 add tests [13]
 2021-08-10 fix bug [14]
+2021-08-10 optimize function [15]
