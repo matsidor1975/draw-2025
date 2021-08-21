@@ -3166,3 +3166,4 @@
 2021-08-21 fix bug [2]
 2021-08-21 improve docs [3]
 2021-08-21 improve docs [4]
+2021-08-21 optimize function [5]
