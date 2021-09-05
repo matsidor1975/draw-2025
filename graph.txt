@@ -3240,3 +3240,4 @@
 2021-09-03 add tests [4]
 2021-09-03 improve docs [5]
 2021-09-05 minor changes [1]
+2021-09-05 fix bug [2]
