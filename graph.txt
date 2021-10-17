@@ -3415,3 +3415,4 @@
 2021-10-17 update feature [4]
 2021-10-17 improve docs [5]
 2021-10-17 add tests [6]
+2021-10-17 fix bug [7]
