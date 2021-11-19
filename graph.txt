@@ -3536,3 +3536,4 @@
 2021-11-19 add tests [9]
 2021-11-19 refactor code [10]
 2021-11-19 refactor code [11]
+2021-11-19 optimize function [12]
