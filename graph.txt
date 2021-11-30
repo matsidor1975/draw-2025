@@ -3630,3 +3630,4 @@
 2021-11-29 refactor code [18]
 2021-11-30 optimize function [1]
 2021-11-30 add tests [2]
+2021-11-30 improve docs [3]
