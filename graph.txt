@@ -3722,3 +3722,4 @@
 2021-12-25 improve docs [6]
 2021-12-25 add tests [7]
 2021-12-25 add tests [8]
+2021-12-25 optimize function [9]
