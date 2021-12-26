@@ -3737,3 +3737,4 @@
 2021-12-26 improve docs [2]
 2021-12-26 add tests [3]
 2021-12-26 optimize function [4]
+2021-12-26 fix bug [5]
