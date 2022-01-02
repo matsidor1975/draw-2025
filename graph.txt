@@ -690,3 +690,4 @@
 2021-07-16 optimize function [17]
 2021-07-16 fix bug [18]
 2021-07-16 optimize function [19]
+2022-01-02 refactor code [1]
