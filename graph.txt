@@ -694,3 +694,4 @@
 2022-01-02 optimize function [2]
 2022-01-02 add tests [3]
 2022-01-02 add tests [4]
+2022-01-02 optimize function [5]
