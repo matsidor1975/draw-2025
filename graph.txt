@@ -3748,3 +3748,4 @@
 2021-12-26 minor changes [13]
 2021-12-26 add tests [14]
 2022-01-03 optimize function [1]
+2022-01-03 improve docs [2]
