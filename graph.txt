@@ -3756,3 +3756,4 @@
 2022-01-03 minor changes [7]
 2022-01-03 add tests [8]
 2022-01-04 minor changes [1]
+2022-01-04 optimize function [2]
