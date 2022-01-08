@@ -723,3 +723,4 @@
 2022-01-04 update feature [5]
 2022-01-08 fix bug [1]
 2022-01-08 add tests [2]
+2022-01-08 optimize function [3]
