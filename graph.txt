@@ -721,3 +721,4 @@
 2022-01-04 minor changes [3]
 2022-01-04 improve docs [4]
 2022-01-04 update feature [5]
+2022-01-08 fix bug [1]
