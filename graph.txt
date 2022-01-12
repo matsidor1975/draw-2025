@@ -741,3 +741,4 @@
 2022-01-12 improve docs [10]
 2022-01-12 optimize function [11]
 2022-01-12 refactor code [12]
+2022-01-12 fix bug [13]
