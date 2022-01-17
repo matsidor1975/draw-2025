@@ -6106,3 +6106,4 @@
 2022-01-17 add tests [1]
 2022-01-17 fix bug [2]
 2022-01-17 improve docs [3]
+2022-01-17 optimize function [4]
