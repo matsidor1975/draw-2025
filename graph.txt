@@ -786,3 +786,4 @@
 2022-01-19 add tests [20]
 2022-01-22 add tests [1]
 2022-01-22 refactor code [2]
+2022-01-22 improve docs [3]
