@@ -805,3 +805,4 @@
 2022-01-26 fix bug [5]
 2022-01-30 add tests [1]
 2022-01-30 improve docs [2]
+2022-01-30 fix bug [3]
