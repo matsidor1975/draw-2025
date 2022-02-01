@@ -819,3 +819,4 @@
 2022-01-30 optimize function [14]
 2022-02-01 improve docs [1]
 2022-02-01 add tests [2]
+2022-02-01 fix bug [3]
