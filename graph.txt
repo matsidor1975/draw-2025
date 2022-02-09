@@ -4297,3 +4297,4 @@
 2022-02-08 minor changes [15]
 2022-02-09 add tests [1]
 2022-02-09 optimize function [2]
+2022-02-09 fix bug [3]
