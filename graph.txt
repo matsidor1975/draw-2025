@@ -4324,3 +4324,4 @@
 2022-02-12 add tests [16]
 2022-02-14 optimize function [1]
 2022-02-14 improve docs [2]
+2022-02-14 fix bug [3]
