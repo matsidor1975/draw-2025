@@ -4323,3 +4323,4 @@
 2022-02-12 refactor code [15]
 2022-02-12 add tests [16]
 2022-02-14 optimize function [1]
+2022-02-14 improve docs [2]
