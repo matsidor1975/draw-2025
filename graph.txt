@@ -4391,3 +4391,4 @@
 2022-02-27 add tests [1]
 2022-02-27 improve docs [2]
 2022-02-27 improve docs [3]
+2022-02-27 optimize function [4]
