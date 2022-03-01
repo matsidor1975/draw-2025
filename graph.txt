@@ -4033,3 +4033,4 @@
 2022-03-01 improve docs [9]
 2022-03-01 fix bug [10]
 2022-03-01 add tests [11]
+2022-03-01 optimize function [12]
