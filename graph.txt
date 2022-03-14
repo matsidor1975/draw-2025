@@ -917,3 +917,4 @@
 2022-03-13 optimize function [6]
 2022-03-13 fix bug [7]
 2022-03-14 add tests [1]
+2022-03-14 refactor code [2]
