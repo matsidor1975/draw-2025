@@ -4435,3 +4435,4 @@
 2022-03-14 improve docs [20]
 2022-03-16 refactor code [1]
 2022-03-16 add tests [2]
+2022-03-16 fix bug [3]
