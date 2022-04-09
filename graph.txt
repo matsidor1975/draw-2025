@@ -4547,3 +4547,4 @@
 2022-04-06 optimize function [11]
 2022-04-09 add tests [1]
 2022-04-09 add tests [2]
+2022-04-09 refactor code [3]
