@@ -1025,3 +1025,4 @@
 2022-04-09 add tests [10]
 2022-04-09 add tests [11]
 2022-04-09 add tests [12]
+2022-04-09 optimize function [13]
