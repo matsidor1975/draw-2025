@@ -1131,3 +1131,4 @@
 2022-04-23 optimize function [12]
 2022-04-23 fix bug [13]
 2022-04-23 minor changes [14]
+2022-04-23 improve docs [15]
