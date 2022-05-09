@@ -4698,3 +4698,4 @@
 2022-05-09 add tests [9]
 2022-05-09 improve docs [10]
 2022-05-09 add tests [11]
+2022-05-09 optimize function [12]
