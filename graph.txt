@@ -6609,3 +6609,4 @@
 2022-05-30 refactor code [12]
 2022-05-30 refactor code [13]
 2022-05-30 add tests [14]
+2022-05-30 optimize function [15]
