@@ -6680,3 +6680,4 @@
 2022-06-14 update feature [19]
 2022-06-14 minor changes [20]
 2022-06-18 add tests [1]
+2022-06-18 improve docs [2]
