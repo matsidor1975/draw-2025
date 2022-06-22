@@ -4870,3 +4870,4 @@
 2022-06-18 improve docs [18]
 2022-06-18 add tests [19]
 2022-06-22 fix bug [1]
+2022-06-22 refactor code [2]
