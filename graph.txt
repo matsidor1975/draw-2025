@@ -4951,3 +4951,4 @@
 2022-07-06 optimize function [5]
 2022-07-06 add tests [6]
 2022-07-06 refactor code [7]
+2022-07-06 improve docs [8]
