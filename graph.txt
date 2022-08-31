@@ -7077,3 +7077,4 @@
 2022-08-31 minor changes [4]
 2022-08-31 fix bug [5]
 2022-08-31 add tests [6]
+2022-08-31 improve docs [7]
