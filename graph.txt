@@ -7237,3 +7237,4 @@
 2022-10-08 fix bug [9]
 2022-10-11 refactor code [1]
 2022-10-11 add tests [2]
+2022-10-11 improve docs [3]
