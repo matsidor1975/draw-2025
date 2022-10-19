@@ -7295,3 +7295,4 @@
 2022-10-19 add tests [3]
 2022-10-19 optimize function [4]
 2022-10-19 add tests [5]
+2022-10-19 improve docs [6]
