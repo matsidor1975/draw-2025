@@ -5514,3 +5514,4 @@
 2022-11-09 minor changes [10]
 2022-11-09 add tests [11]
 2022-11-12 improve docs [1]
+2022-11-12 optimize function [2]
