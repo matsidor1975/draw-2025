@@ -5585,3 +5585,4 @@
 2022-11-22 optimize function [2]
 2022-11-22 add tests [3]
 2022-11-22 add tests [4]
+2022-11-22 refactor code [5]
