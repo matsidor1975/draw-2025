@@ -7473,3 +7473,4 @@
 2022-12-07 improve docs [2]
 2022-12-07 refactor code [3]
 2022-12-07 add tests [4]
+2022-12-07 optimize function [5]
