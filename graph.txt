@@ -1522,3 +1522,4 @@
 2023-01-22 improve docs [12]
 2023-01-22 add tests [13]
 2023-01-26 update feature [1]
+2023-01-26 fix bug [2]
