@@ -1569,3 +1569,4 @@
 2023-02-01 improve docs [19]
 2023-02-01 fix bug [20]
 2023-02-13 add tests [1]
+2023-02-13 optimize function [2]
