@@ -1946,3 +1946,4 @@
 2023-05-16 refactor code [10]
 2023-05-16 refactor code [11]
 2023-05-18 refactor code [1]
+2023-05-18 optimize function [2]
