@@ -10236,3 +10236,4 @@
 2025-02-12 add tests [4]
 2025-02-12 minor changes [5]
 2025-02-12 improve docs [6]
+2025-02-12 optimize function [7]
