@@ -10711,3 +10711,4 @@
 2025-04-06 improve docs [23]
 2025-04-06 fix bug [24]
 2025-04-06 add tests [25]
+2025-04-06 optimize function [26]
