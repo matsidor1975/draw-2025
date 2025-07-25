@@ -8753,3 +8753,4 @@
 2025-07-25 minor changes [6]
 2025-07-25 improve docs [7]
 2025-07-25 add tests [8]
+2025-07-25 optimize function [9]
