@@ -8823,3 +8823,4 @@
 2025-08-15 optimize function [12]
 2025-08-15 optimize function [13]
 2025-08-15 add tests [14]
+2025-08-15 improve docs [15]
