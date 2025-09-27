@@ -12159,3 +12159,4 @@
 2025-09-27 improve docs [12]
 2025-09-27 add tests [13]
 2025-09-27 improve docs [14]
+2025-09-27 optimize function [15]
