@@ -12915,3 +12915,4 @@
 2025-12-14 fix bug [15]
 2025-12-17 add tests [1]
 2025-12-17 minor changes [2]
+2025-12-17 improve docs [3]
